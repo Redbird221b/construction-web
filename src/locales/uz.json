@@ -1,0 +1,174 @@
+{
+  "navbar": {
+    "quote": "NARXNI BILISH",
+    "phone": "(305) 209-1111",
+    "links": {
+      "home": "Bosh sahifa",
+      "about": "Biz haqimizda",
+      "process": "Jarayon",
+      "contact": "Bog‘lanish"
+    }
+  },
+  "heroSlider": {
+    "slides": [
+      {
+        "title": "Yangi kuch, yangidek ishlash",
+        "subtitle": "Almashtirishsiz",
+        "description": "Sanoat akkumulyatorlarini qayta tiklash orqali pul, vaqt va tabiatni tejang."
+      },
+      {
+        "title": "Ekologik akkumulyator yechimlari",
+        "subtitle": "",
+        "description": "Biz tiklaymiz — siz tejaysiz. Zero-waste harakatiga qo‘shiling."
+      },
+      {
+        "title": "Butun mamlakat bo‘ylab ishonch",
+        "subtitle": "",
+        "description": "2 yillik kafolat bilan AQSH bo‘ylab xizmat ko‘rsatamiz."
+      }
+    ],
+    "ctaPrimary": "QANCHA TEJASHINGIZNI BILING!",
+    "ctaSecondary": "NARXNI OLISH"
+  },
+  "about": {
+    "heading": "Biz haqimizda",
+    "subtitle": "Biz akkumulyatorlarni qayta hayotga qaytaramiz — va tabiatni saqlaymiz.",
+    "left": {
+      "title": "Sanoat akkumulyator mutaxassislari",
+      "text": "BSF mijozlar uchun tejash va chiqindilarni kamaytirish uchun tashkil etilgan. Forklift, UPS, golf mashinalari va boshqa akkumulyatorlarni tiklaymiz."
+    },
+    "right": {
+      "title": "Bizning vazifamiz",
+      "text": "Sanoat chiqindilarini kamaytirish va ekologik foydali yechimlar yaratish.",
+      "points": [
+        "Almashtirish o‘rniga tiklash",
+        "Mijozlar uchun tejash",
+        "Atrof-muhitga mas'uliyatli yondashuv"
+      ],
+      "stats": {
+        "experience": {
+          "value": "15+",
+          "label": "Yillik tajriba"
+        },
+        "restored": {
+          "value": "5 000+",
+          "label": "Tiklangan akkumulyatorlar"
+        },
+        "waste": {
+          "value": "320 tonna",
+          "label": "Oldi olingan chiqindi"
+        }
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Jarayonimiz",
+    "heading": "Qanday ishlaydi",
+    "description": "3 bosqichli oddiy jarayon — vaqt, pul va tabiatni tejaydi.",
+    "steps": [
+      {
+        "title": "Tahlil qilamiz",
+        "description": "Akkumulyatorlar tiklanishga yaroqli yoki yo‘qligini baholaymiz."
+      },
+      {
+        "title": "Qayta tiklaymiz",
+        "description": "Maxsus texnologiyamiz yordamida to‘liq quvvatni tiklaymiz."
+      },
+      {
+        "title": "Siz tejaysiz",
+        "description": "Qimmat almashtirishdan saqlaning va chiqindini kamaytiring."
+      }
+    ],
+    "undertext": {
+      "highlight": "Yangi kuch – kafolatli natija:",
+      "text": "Bizning texnologiyamiz 2 yillik kafolatli, kuchli akkumulyatorlarni tiklaydi."
+    },
+    "button": "Jarayon"
+  },
+  "newLife": {
+    "title": "Forklift akkumulyatorlariga yangi hayot",
+    "description": "Biz elektr forklift, lift va stackerlar uchun kuchli akkumulyatorlarni tiklaymiz.",
+    "vehicles": [
+      "Elektr forklift",
+      "Elektr lift",
+      "Elektr stacker"
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Nega bizni tanlashadi",
+    "title": "Biz akkumulyatorlarni yangidan ham yaxshi qilamiz",
+    "description": "Bizning jarayon — yuqori sifat, katta foyda va ekologik himoya.",
+    "features": [
+      {
+        "title": "Uzoq umr",
+        "description": "Akkumulyatorlarni maksimal holatga qaytaramiz."
+      },
+      {
+        "title": "Tejamkorlik",
+        "description": "Yangisini olishga qaraganda 70% tejang."
+      },
+      {
+        "title": "Ekologik toza",
+        "description": "Chiqindilarni kamaytirish va atrof-muhitni himoya qilish."
+      },
+      {
+        "title": "Innovatsion texnologiya",
+        "description": "Eng zamonaviy uskunalar bilan yuqori natijalar."
+      }
+    ]
+  },
+  "help": {
+    "badge": "● Sizga qanday yordam bera olamiz? ●",
+    "title": "Battery Solutions of Florida",
+    "description": "Xizmat muddati, tiklash va texnik xizmat ko‘rsatish — biz yordam beramiz.",
+    "button": "DIAGNOSTIKA UCHUN YOZILISH",
+    "services": [
+      {
+        "name": "Joyida diagnostika",
+        "description": "Mijoz manzilida akkumulyatorlarni tekshirib beramiz."
+      },
+      {
+        "name": "Qayta tiklash",
+        "description": "Devor holatidagi natijani qaytarish uchun yangilaymiz."
+      },
+      {
+        "name": "Texnik xizmat",
+        "description": "Uskunalaringiz barqaror ishlashi uchun rejalashtirilgan xizmat."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Mijozlar fikri",
+    "list": []
+  },
+  "overlayInfo": {
+    "headline": "Biz <strong>akkumulyatorlarni qayta hayotga qaytaramiz</strong>",
+    "subtext": "Ispan tilida ham xizmat ko‘rsatamiz",
+    "phone": "+1 (786) 963-1226",
+    "email": "info@bsf-usa.com"
+  },
+  "map": {
+    "title": "BSF manzili xaritasi"
+  },
+  "footer": {
+    "call": "Bugun qo‘ng‘iroq qiling",
+    "company": "BATTERY SOLUTIONS OF FLORIDA",
+    "contact": {
+      "title": "Aloqa",
+      "phone": "📞 786-963-1226",
+      "email": "✉️ info@bsf-usa.com",
+      "address": "📍 3797 NW 46th St\nMayami, FL 33142"
+    },
+    "links": {
+      "title": "Foydali havolalar",
+      "items": ["Bosh sahifa", "Biz haqimizda", "Jarayon", "Aloqa", "Maxfiylik siyosati"]
+    },
+    "subscribe": {
+      "title": "Aloqada bo‘ling",
+      "placeholder": "Email manzilingiz",
+      "button": "OBUNA BO‘LING",
+      "note": "Istalgan vaqtda obunani bekor qilishingiz mumkin!"
+    },
+    "copyright": "&copy; {{year}} BSF Battery Solutions of Florida | Dasturchi — Spectre 💻"
+  }
+}

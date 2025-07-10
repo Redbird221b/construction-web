@@ -1,0 +1,191 @@
+{
+  "navbar": {
+    "quote": "GET A QUOTE",
+    "phone": "(305) 209-1111",
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "process": "The Process",
+      "contact": "Contact"
+    }
+  },
+  "heroSlider": {
+    "slides": [
+      {
+        "title": "Power that Outperforms",
+        "subtitle": "Without Replacing",
+        "description": "Industrial battery restoration that saves you money, time, and the environment."
+      },
+      {
+        "title": "Eco-friendly Battery Solutions",
+        "subtitle": "",
+        "description": "We restore, you save. Join the zero-waste movement."
+      },
+      {
+        "title": "Trusted Nationwide",
+        "subtitle": "",
+        "description": "Serving businesses across the USA with 2-year warranty."
+      }
+    ],
+    "ctaPrimary": "FIND OUT HOW MUCH YOU COULD SAVE!",
+    "ctaSecondary": "GET A QUOTE"
+  },
+  "about": {
+    "heading": "About Us",
+    "subtitle": "We bring dead batteries back to life — and help save the planet in the process.",
+    "left": {
+      "title": "Industrial Battery Restoration Experts",
+      "text": "BSF was built to save our customers money and reduce battery waste. We restore forklift, UPS, golf cart, and other lead-acid batteries for commercial and industrial clients."
+    },
+    "right": {
+      "title": "Our Mission",
+      "text": "To reduce industrial battery waste and offer sustainable solutions that benefit both our clients and the environment.",
+      "points": [
+        "Restore instead of replace",
+        "Help clients save money",
+        "Promote environmental responsibility"
+      ],
+      "stats": {
+        "experience": {
+          "value": "15+",
+          "label": "Years of experience"
+        },
+        "restored": {
+          "value": "5,000+",
+          "label": "Batteries restored"
+        },
+        "waste": {
+          "value": "320 tons",
+          "label": "Waste prevented"
+        }
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Our Process",
+    "heading": "How It Works",
+    "description": "Our simple 3-step process helps you save time, money, and the environment.",
+    "steps": [
+      {
+        "title": "We Evaluate",
+        "description": "We assess your industrial batteries to determine if they’re good candidates for restoration."
+      },
+      {
+        "title": "We Restore",
+        "description": "Using our proprietary technology, we bring your batteries back to peak performance."
+      },
+      {
+        "title": "You Save",
+        "description": "You avoid costly replacements and help reduce environmental waste."
+      }
+    ],
+    "undertext": {
+      "highlight": "Power Renewed – Satisfaction Guaranteed:",
+      "text": "Our exclusive process is the key to producing batteries with unparalleled performance, backed by a 2-year warranty on our refurbished units."
+    },
+    "button": "The Process"
+  },
+  "newLife": {
+    "title": "New Life for Forklift Batteries",
+    "description": "We specialize in restoring performance for electric forklifts, scissor lifts, and stackers with reliable battery reconditioning.",
+    "vehicles": [
+      "Electric Forklift",
+      "Electric Scissor Lift",
+      "Electric Stacker"
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Why Choose Us",
+    "title": "We Bring Batteries Back to Life – Better Than New",
+    "description": "Our process delivers unmatched performance, value, and environmental impact.",
+    "features": [
+      {
+        "title": "Extended Battery Life",
+        "description": "Restore your batteries to peak performance and extend their lifespan."
+      },
+      {
+        "title": "Cost Savings",
+        "description": "Save up to 70% by restoring instead of replacing your batteries."
+      },
+      {
+        "title": "Eco-Friendly",
+        "description": "Reduce waste and environmental impact with our green restoration process."
+      },
+      {
+        "title": "Proprietary Technology",
+        "description": "We use advanced, exclusive equipment to achieve top-tier restoration results."
+      }
+    ]
+  },
+  "help": {
+    "badge": "● How Can We Help You? ●",
+    "title": "Battery Solutions of Florida",
+    "description": "From extending battery life to eco-friendly solutions, we’re here to provide expert restoration, maintenance, and advice tailored to your needs.",
+    "button": "SCHEDULE A DIAGNOSTIC READING",
+    "services": [
+      {
+        "name": "On-Site Diagnostic",
+        "description": "This service allows us to directly assess and diagnose battery issues at the customer’s location, providing a more immediate and personalized approach."
+      },
+      {
+        "name": "Restoration",
+        "description": "Our restoration process revives used batteries to deliver near-new performance and longevity."
+      },
+      {
+        "name": "Maintenance",
+        "description": "Scheduled battery maintenance helps you avoid downtime and maximize equipment efficiency."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "list": [
+      {
+        "name": "Sara Rzendzian",
+        "text": "I recently used BSF for my EV battery issues and was amazed by the results. Their eco-friendly approach gave my battery new life, significantly boosting its performance..."
+      },
+      {
+        "name": "Oliver Sandhaous",
+        "text": "The quality of the battery restoration exceeded our expectations. Our batteries now perform like new. It's refreshing to see a company that not only delivers on performance..."
+      },
+      {
+        "name": "Jessica Lang",
+        "text": "Excellent service and very professional staff. They restored my forklift battery and now it works better than ever. Highly recommend BSF!"
+      },
+      {
+        "name": "David Munoz",
+        "text": "Impressed by how thorough and sustainable the restoration process was. Saved us a lot of money and helped reduce waste."
+      }
+    ]
+  },
+  "overlayInfo": {
+    "headline": "We bring <strong>Batteries Back to Life</strong>",
+    "subtext": "Se Habla Español",
+    "phone": "+1 (786) 963-1226",
+    "email": "info@bsf-usa.com"
+  },
+  "map": {
+    "title": "BSF Location Map"
+  },
+  "footer": {
+    "call": "Call us Today",
+    "company": "BATTERY SOLUTIONS OF FLORIDA",
+    "contact": {
+      "title": "Contact Us",
+      "phone": "📞 786-963-1226",
+      "email": "✉️ info@bsf-usa.com",
+      "address": "📍 3797 NW 46th St\nMiami, FL 33142"
+    },
+    "links": {
+      "title": "Useful Links",
+      "items": ["Home", "About Us", "The Process", "Contact", "Privacy Policy"]
+    },
+    "subscribe": {
+      "title": "Stay in Touch",
+      "placeholder": "Your Email Address",
+      "button": "SUBSCRIBE NOW",
+      "note": "You may withdraw your consent at any time!"
+    },
+    "copyright": "&copy; {{year}} BSF Battery Solutions of Florida | Powered by Spectre 💻"
+  }
+}
