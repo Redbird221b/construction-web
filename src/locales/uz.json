@@ -30,7 +30,7 @@
     "ctaPrimary": "QANCHA TEJASHINGIZNI BILING!",
     "ctaSecondary": "NARXNI OLISH"
   },
-  "about": {
+  "aboutSection": {
     "heading": "Biz haqimizda",
     "subtitle": "Biz akkumulyatorlarni qayta hayotga qaytaramiz — va tabiatni saqlaymiz.",
     "left": {
@@ -161,7 +161,13 @@
     },
     "links": {
       "title": "Foydali havolalar",
-      "items": ["Bosh sahifa", "Biz haqimizda", "Jarayon", "Aloqa", "Maxfiylik siyosati"]
+      "items": [
+        "Bosh sahifa",
+        "Biz haqimizda",
+        "Jarayon",
+        "Aloqa",
+        "Maxfiylik siyosati"
+      ]
     },
     "subscribe": {
       "title": "Aloqada bo‘ling",
@@ -170,5 +176,68 @@
       "note": "Istalgan vaqtda obunani bekor qilishingiz mumkin!"
     },
     "copyright": "&copy; {{year}} BSF Battery Solutions of Florida | Dasturchi — Spectre 💻"
+  },
+  "aboutPage": {
+    "bsfIntro": {
+      "badge": "● BSF ●",
+      "title": "Florida batareyalar yechimlari",
+      "description": "Battery Solutions of Florida (BSF) ilg‘or texnologiyalardan foydalanib, xarajatlarni kamaytirish, ishlamay qolish vaqtini minimallashtirish va ishonchli batareyalar ishlashini ta’minlashga intiladi. Bundan tashqari, biz chiqindisiz va ekologik toza yondashuvimiz bilan faxrlanamiz. Tiklash, qayta sotib olish va sotish xizmatlarimiz haqida ko‘proq bilish uchun biz bilan bog‘laning!",
+      "button": "BOG‘LANISH"
+    },
+    "commitment": {
+      "badge": "● NIMA UCHUN BIZNI TANLASHADI ●",
+      "title": "Bizning majburiyatimiz",
+      "description": "Biz sifat va ishonchlilikni ta’minlagan holda to‘liq batareyani tiklash xizmatlarini taklif qilishga intilamiz. Har bir xizmat sizning xotirjamligingiz uchun kafolat bilan ta’minlanadi va bu esa sizga tejamkor va samarali yechimlar beradi.",
+      "features": [
+        {
+          "title": "100% ekologik toza"
+        },
+        {
+          "title": "To‘liq batareyani tiklash"
+        },
+        {
+          "title": "Xizmat kafolati"
+        }
+      ],
+      "button": "BOG‘LANISH"
+    },
+    "difference": {
+      "badge": "● Bizning 'Ochiq Yurak' Metodimiz ●",
+      "title": "Biz eng yaxshi batareya tiklashni taqdim etamiz",
+      "description": "Ilg‘or texnologiyalar va noyob 'Ochiq Yurak' tozalash jarayonimiz orqali biz har bir hujayrani puxta tiklaymiz. Bu usul korroziya va sulfatlanishni bartaraf etib, himoya qoplamasi qo‘llaniladi, bu esa unumdorlik va xizmat muddatini oshiradi.",
+      "bars": [
+        {
+          "label": "Ekologik toza jarayon",
+          "value": 78
+        },
+        {
+          "label": "Chiqindisiz ishlashga erishildi",
+          "value": 100
+        },
+        {
+          "label": "Batareyani tiklash muvaffaqiyati",
+          "value": 86
+        }
+      ]
+    },
+    "experienceBanner": {
+      "badge": "● Nima Uchun Muhim ●",
+      "title": "Mahalliy Afzallikni His Qiling",
+      "subtitle": "Florida asosidagi jamoamiz sizga ishonchli natijalarni va eng yuqori sifatli xizmatni taqdim etadi.",
+      "description": "Mahalliy xizmat ko‘rsatuvchi sifatida biz jamiyatimizdagi biznes ehtiyojlarini yaxshi tushunamiz. Tezkor xizmat va shaxsiy yondashuv bilan har doim tayyor holatda bo‘lasiz.",
+      "button": "BEPUL DIAGNOSTIKA"
+    }
+  },
+  "aboutHero": {
+    "title": "БИЗ ҲАҚИМИЗДА",
+    "home": "Bosh sahifa",
+    "badge": "Biz haqimizda",
+    "heading": "Endi AQSHni energiyalamoqdamiz",
+    "subtitle": "Akkumulyatorlarni tiklash bo‘yicha o‘n yildan ortiq global yetakchilik",
+    "stats": {
+      "experience": "Yillik tajriba",
+      "projects": "Bajarilgan loyihalar"
+    }
   }
+
 }

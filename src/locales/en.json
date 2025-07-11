@@ -30,7 +30,7 @@
     "ctaPrimary": "FIND OUT HOW MUCH YOU COULD SAVE!",
     "ctaSecondary": "GET A QUOTE"
   },
-  "about": {
+  "aboutSection": {
     "heading": "About Us",
     "subtitle": "We bring dead batteries back to life — and help save the planet in the process.",
     "left": {
@@ -178,7 +178,13 @@
     },
     "links": {
       "title": "Useful Links",
-      "items": ["Home", "About Us", "The Process", "Contact", "Privacy Policy"]
+      "items": [
+        "Home",
+        "About Us",
+        "The Process",
+        "Contact",
+        "Privacy Policy"
+      ]
     },
     "subscribe": {
       "title": "Stay in Touch",
@@ -187,5 +193,67 @@
       "note": "You may withdraw your consent at any time!"
     },
     "copyright": "&copy; {{year}} BSF Battery Solutions of Florida | Powered by Spectre 💻"
+  },
+  "aboutHero": {
+    "title": "ABOUT US",
+    "home": "Home",
+    "badge": "About Us",
+    "heading": "Now Energizing the USA",
+    "subtitle": "Celebrating over a decade of Global Leadership in Battery Reconditioning",
+    "stats": {
+      "experience": "Years of Experience",
+      "projects": "Project Done"
+    }
+  },
+  "aboutPage": {
+    "bsfIntro": {
+      "badge": "● BSF ●",
+      "title": "Battery Solutions of Florida",
+      "description": "Battery Solutions of Florida (BSF) uses an innovative approach, leveraging advanced technology to reduce costs, minimize downtime, and ensure consistent and dependable battery operation. Plus, we’re proud to be earth-friendly with our zero-waste approach. Contact us today to learn more about our efficient battery reconditioning, battery repurchase, and resale services!",
+      "button": "CONTACT US"
+    },
+    "commitment": {
+      "badge": "● WHY CHOOSE US ●",
+      "title": "Our Commitment",
+      "description": "We are dedicated to offering full battery restoration with a focus on quality and reliability. Each service comes with a warranty for your peace of mind, ensuring cost-effective solutions without compromising performance.",
+      "features": [
+        {
+          "title": "100% Eco-Friendly"
+        },
+        {
+          "title": "Full Battery Restoration"
+        },
+        {
+          "title": "Service Warranty"
+        }
+      ],
+      "button": "CONTACT US"
+    },
+    "difference": {
+      "badge": "● Our 'Open-Heart' Method ●",
+      "title": "We Provide The Best Battery Restoration",
+      "description": "With our advanced technology and unique 'Open-Heart' cleaning process, we meticulously restore every cell. Our process eliminates all corrosion and sulfurization and applies a protective coating, maximizing performance and lifespan.",
+      "bars": [
+        {
+          "label": "Eco-Friendly Process",
+          "value": 78
+        },
+        {
+          "label": "Zero Waste Achieved",
+          "value": 100
+        },
+        {
+          "label": "Battery Restoration Success Rate",
+          "value": 86
+        }
+      ]
+    },
+    "experienceBanner": {
+      "badge": "● Why It Matters ●",
+      "title": "Experience the Local Advantage",
+      "subtitle": "Our expert team and unique Florida-based process deliver reliable results with unmatched quality and care.",
+      "description": "As a local provider, we understand the specific needs of businesses in our community. Our hands-on approach and rapid response ensure you’re always powered up and ready to go.",
+      "button": "FREE DIAGNOSTIC"
+    }
   }
 }

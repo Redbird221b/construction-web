@@ -29,10 +29,10 @@ export default function AboutUs() {
                     variants={fadeUp}
                 >
                     <h2 className="text-4xl md:text-5xl font-bold text-center text-gray-800 mb-4">
-                        <span className="text-green-600">{t('about.heading').split(' ')[0]}</span> {t('about.heading').split(' ').slice(1).join(' ')}
+                        <span className="text-green-600">{t('aboutSection.heading').split(' ')[0]}</span> {t('aboutSection.heading').split(' ').slice(1).join(' ')}
                     </h2>
                     <p className="text-gray-600 text-lg max-w-2xl mx-auto text-center mb-16">
-                        {t('about.subtitle')}
+                        {t('aboutSection.subtitle')}
                     </p>
                 </motion.div>
 
@@ -52,10 +52,10 @@ export default function AboutUs() {
                             height="400px"
                         />
                         <h3 className="text-2xl font-semibold mt-6 mb-4 text-gray-800">
-                            {t('about.left.title')}
+                            {t('aboutSection.left.title')}
                         </h3>
                         <p className="text-gray-700 text-base leading-relaxed">
-                            {t('about.left.text')}
+                            {t('aboutSection.left.text')}
                         </p>
                     </motion.div>
 
@@ -67,13 +67,13 @@ export default function AboutUs() {
                         variants={fadeUp}
                         custom={2}
                     >
-                        <h3 className="text-2xl font-semibold mb-4 text-gray-800">{t('about.right.title')}</h3>
+                        <h3 className="text-2xl font-semibold mb-4 text-gray-800">{t('aboutSection.right.title')}</h3>
                         <p className="text-gray-700 mb-6">
-                            {t('about.right.text')}
+                            {t('aboutSection.right.text')}
                         </p>
 
                         <ul className="space-y-4 mb-8">
-                            {t('about.right.points', { returnObjects: true }).map((text, i) => (
+                            {t('aboutSection.right.points', { returnObjects: true }).map((text, i) => (
                                 <motion.li
                                     key={i}
                                     className="flex items-start gap-3"
@@ -94,16 +94,16 @@ export default function AboutUs() {
                         {/* Stats */}
                         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mt-[80px] text-center">
                             <div>
-                                <p className="text-4xl font-bold text-green-600">{t('about.right.stats.experience.value')}</p>
-                                <p className="text-gray-700 text-sm">{t('about.right.stats.experience.label')}</p>
+                                <p className="text-4xl font-bold text-green-600">{t('aboutSection.right.stats.experience.value')}</p>
+                                <p className="text-gray-700 text-sm">{t('aboutSection.right.stats.experience.label')}</p>
                             </div>
                             <div>
-                                <p className="text-4xl font-bold text-green-600">{t('about.right.stats.restored.value')}</p>
-                                <p className="text-gray-700 text-sm">{t('about.right.stats.restored.label')}</p>
+                                <p className="text-4xl font-bold text-green-600">{t('aboutSection.right.stats.restored.value')}</p>
+                                <p className="text-gray-700 text-sm">{t('aboutSection.right.stats.restored.label')}</p>
                             </div>
                             <div>
-                                <p className="text-4xl font-bold text-green-600">{t('about.right.stats.waste.value')}</p>
-                                <p className="text-gray-700 text-sm">{t('about.right.stats.waste.label')}</p>
+                                <p className="text-4xl font-bold text-green-600">{t('aboutSection.right.stats.waste.value')}</p>
+                                <p className="text-gray-700 text-sm">{t('aboutSection.right.stats.waste.label')}</p>
                             </div>
                         </div>
                     </motion.div>
